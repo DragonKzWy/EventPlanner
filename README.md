@@ -1,4 +1,4 @@
-```md
+
 # Event Planner
 
 A simple event planning system in Ruby that helps families organize events by finding the best date, assigning tasks, and sending reminders.
@@ -12,7 +12,7 @@ A simple event planning system in Ruby that helps families organize events by fi
 ## Installation
 
 Ensure you have Ruby installed on your system. Then, clone the repository and navigate to the project directory:
-```
+
 ``` sh
 git clone https://github.com/DragonKzWy/EventPlanner.git
 cd EventPlanner
